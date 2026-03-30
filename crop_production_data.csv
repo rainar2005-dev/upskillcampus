@@ -1,0 +1,501 @@
+Crop,State,Season,Area,Cost,Production
+Wheat,Uttar Pradesh,Kharif,2904,4411,5487.6
+Coffee,Uttar Pradesh,Rabi,3376,16941,4156.37
+Cotton,Andhra Pradesh,Whole Year,142,23482,586.5
+Cotton,Karnataka,Summer,3993,32950,4521.31
+Tea,Maharashtra,Kharif,2763,25489,5769.46
+Cotton,Punjab,Whole Year,618,38592,1447.26
+Wheat,Punjab,Summer,4584,34543,10207.85
+Cotton,Tamil Nadu,Summer,4820,5749,8402.78
+Rice,Karnataka,Summer,2482,12370,1802.05
+Coffee,Punjab,Summer,2836,19586,6674.15
+Coffee,Tamil Nadu,Whole Year,2533,29974,1757.9
+Cotton,Haryana,Kharif,1821,20556,2802.34
+Sugarcane,Uttar Pradesh,Summer,3525,17024,2452.34
+Sugarcane,Tamil Nadu,Summer,3693,36874,9285.44
+Maize,Haryana,Whole Year,4384,41923,3002.07
+Maize,Punjab,Summer,2995,41163,4563.84
+Sugarcane,Maharashtra,Whole Year,3438,44257,3928.82
+Wheat,Tamil Nadu,Whole Year,4419,9864,5130.4
+Coffee,Maharashtra,Summer,3602,27966,4947.56
+Wheat,West Bengal,Whole Year,585,9876,1316.48
+Coffee,Andhra Pradesh,Whole Year,3822,40654,3728.31
+Jute,Haryana,Whole Year,4755,3498,6748.98
+Maize,Uttar Pradesh,Summer,704,34095,1000.32
+Maize,Andhra Pradesh,Kharif,4918,11495,10160.68
+Tea,Haryana,Kharif,942,38638,965.01
+Wheat,Karnataka,Kharif,4420,5910,3504.53
+Coffee,West Bengal,Summer,3473,20486,8531.89
+Coffee,Punjab,Whole Year,3609,39737,9210.59
+Cotton,Tamil Nadu,Rabi,814,5429,1377.39
+Sugarcane,Karnataka,Whole Year,1725,5696,3829.2
+Coffee,Tamil Nadu,Kharif,281,29973,869.96
+Tea,Karnataka,Rabi,2811,1455,1680.97
+Sugarcane,Uttar Pradesh,Summer,1872,34984,1716.0
+Jute,Andhra Pradesh,Rabi,1968,49425,2529.48
+Wheat,Maharashtra,Kharif,4836,27686,11008.74
+Sugarcane,Maharashtra,Summer,3909,47529,3465.99
+Wheat,West Bengal,Rabi,2535,2626,5813.22
+Wheat,Haryana,Kharif,1154,14550,1724.74
+Sugarcane,Uttar Pradesh,Kharif,2696,14724,2256.89
+Maize,Tamil Nadu,Whole Year,3735,14155,3877.71
+Wheat,West Bengal,Kharif,4577,38803,8425.26
+Rice,Tamil Nadu,Kharif,1550,8660,3615.04
+Jute,Andhra Pradesh,Whole Year,1211,45107,2298.01
+Wheat,Punjab,Kharif,3148,31427,4913.2
+Tea,Maharashtra,Whole Year,3944,24823,3056.03
+Wheat,Punjab,Rabi,1610,21268,2243.71
+Cotton,Andhra Pradesh,Rabi,4981,20223,7330.36
+Tea,Punjab,Rabi,1230,22266,1150.42
+Rice,West Bengal,Kharif,4473,9697,4786.01
+Tea,Karnataka,Summer,4664,43338,9395.21
+Sugarcane,Karnataka,Kharif,3176,10206,6590.69
+Coffee,Andhra Pradesh,Rabi,4799,45404,6212.84
+Tea,Karnataka,Kharif,4289,24304,6757.28
+Coffee,Uttar Pradesh,Whole Year,2126,39377,3307.96
+Wheat,Karnataka,Rabi,4345,16642,8618.48
+Sugarcane,Maharashtra,Whole Year,2329,11982,2658.21
+Rice,Andhra Pradesh,Summer,975,22125,2128.08
+Coffee,Maharashtra,Whole Year,152,49368,834.88
+Cotton,Punjab,Rabi,2918,2438,5786.49
+Maize,West Bengal,Whole Year,3342,49499,4414.41
+Sugarcane,Andhra Pradesh,Whole Year,1613,13745,2939.84
+Wheat,Uttar Pradesh,Rabi,4822,12945,9063.82
+Coffee,Karnataka,Summer,322,3211,252.42
+Wheat,Tamil Nadu,Rabi,2629,8202,3553.03
+Sugarcane,Uttar Pradesh,Kharif,2853,2569,6847.35
+Rice,West Bengal,Whole Year,1069,9940,1380.97
+Coffee,Karnataka,Kharif,3543,35372,3995.6
+Wheat,Haryana,Rabi,1557,49885,2389.78
+Maize,Haryana,Whole Year,3577,24002,6361.8
+Jute,Punjab,Rabi,962,45447,1448.02
+Sugarcane,Maharashtra,Whole Year,3971,31305,4380.0
+Sugarcane,Maharashtra,Kharif,2206,5027,1803.98
+Cotton,Haryana,Summer,4752,34926,11674.01
+Jute,Maharashtra,Whole Year,252,47237,877.79
+Rice,Tamil Nadu,Rabi,2520,40871,4832.81
+Cotton,Tamil Nadu,Summer,1324,30196,2718.49
+Rice,Maharashtra,Kharif,3230,36499,4530.18
+Maize,Punjab,Rabi,4345,10013,7971.15
+Cotton,Tamil Nadu,Kharif,3938,19414,9887.83
+Coffee,Haryana,Summer,4742,23012,5068.87
+Tea,Punjab,Rabi,2593,24530,4314.29
+Cotton,West Bengal,Rabi,4794,42116,6570.8
+Jute,West Bengal,Summer,1290,39224,1226.07
+Rice,Karnataka,Rabi,4948,42769,3031.33
+Rice,Karnataka,Kharif,4499,32287,4637.28
+Maize,Karnataka,Whole Year,2779,41943,1925.93
+Wheat,Haryana,Whole Year,3695,34864,3637.04
+Coffee,Andhra Pradesh,Whole Year,732,9514,1914.72
+Coffee,Maharashtra,Kharif,2337,26253,1755.09
+Jute,Tamil Nadu,Whole Year,3518,32562,7177.5
+Cotton,Karnataka,Rabi,2697,40949,4981.89
+Rice,Karnataka,Summer,604,29166,663.42
+Sugarcane,Tamil Nadu,Kharif,2508,8082,5765.48
+Maize,Karnataka,Kharif,2565,9501,5292.27
+Jute,Maharashtra,Rabi,2961,2896,4043.93
+Coffee,Uttar Pradesh,Summer,2161,3296,5021.09
+Maize,Andhra Pradesh,Kharif,3145,22536,3794.32
+Cotton,Haryana,Kharif,1508,9115,1032.72
+Jute,Uttar Pradesh,Rabi,495,36678,1481.01
+Rice,Maharashtra,Whole Year,2887,26558,2350.08
+Sugarcane,Karnataka,Summer,4538,1107,8188.69
+Sugarcane,Maharashtra,Kharif,4184,37858,10254.96
+Jute,Punjab,Summer,1543,37778,3987.66
+Cotton,Punjab,Whole Year,1719,17077,3506.95
+Cotton,Maharashtra,Summer,4295,47152,9986.51
+Rice,West Bengal,Summer,3227,4573,3987.79
+Jute,Tamil Nadu,Rabi,4394,3859,7719.15
+Tea,Haryana,Rabi,2086,24492,1654.06
+Jute,Karnataka,Summer,2636,35039,5061.33
+Rice,Haryana,Whole Year,1194,17313,1150.89
+Rice,West Bengal,Rabi,4635,49122,6782.11
+Sugarcane,Haryana,Kharif,4426,34380,8551.66
+Tea,Haryana,Whole Year,1068,26646,1502.31
+Rice,Haryana,Whole Year,1097,8045,1551.75
+Wheat,Uttar Pradesh,Whole Year,3902,34272,8119.71
+Rice,West Bengal,Whole Year,1530,45918,4199.19
+Sugarcane,Uttar Pradesh,Summer,1879,39510,3367.47
+Wheat,Haryana,Summer,4469,46912,9239.78
+Wheat,Karnataka,Rabi,3660,40756,6889.89
+Jute,Punjab,Rabi,1531,24042,2197.42
+Maize,Tamil Nadu,Rabi,829,9384,2134.57
+Rice,Maharashtra,Kharif,390,19066,818.52
+Jute,Uttar Pradesh,Rabi,1404,4217,1693.44
+Sugarcane,Haryana,Summer,4999,48563,3214.36
+Cotton,Punjab,Kharif,1816,37670,1552.37
+Cotton,Karnataka,Rabi,4858,3179,8973.17
+Jute,Tamil Nadu,Kharif,4272,18268,3283.64
+Cotton,West Bengal,Rabi,1648,40061,4460.72
+Sugarcane,Andhra Pradesh,Rabi,3512,28732,6781.1
+Sugarcane,Punjab,Whole Year,4280,8406,3210.17
+Cotton,Uttar Pradesh,Kharif,2513,29376,3636.64
+Maize,Maharashtra,Whole Year,1281,6517,1236.38
+Jute,Karnataka,Whole Year,604,41063,949.81
+Wheat,Andhra Pradesh,Kharif,3174,4356,4372.0
+Wheat,Haryana,Rabi,3090,4707,3124.68
+Cotton,Haryana,Whole Year,3232,11176,7412.66
+Coffee,Tamil Nadu,Whole Year,4096,10067,3088.69
+Coffee,Karnataka,Summer,3554,27524,8459.52
+Coffee,Maharashtra,Rabi,869,10089,953.65
+Wheat,Haryana,Summer,3500,5933,6340.66
+Sugarcane,Tamil Nadu,Kharif,2222,47110,2243.68
+Jute,Haryana,Rabi,3536,14785,6546.59
+Sugarcane,Punjab,Rabi,1558,38672,2212.84
+Wheat,Karnataka,Kharif,201,42055,563.42
+Cotton,West Bengal,Whole Year,2486,8816,4621.68
+Rice,Uttar Pradesh,Summer,186,31385,775.12
+Rice,West Bengal,Kharif,2574,33881,3113.74
+Cotton,Haryana,Summer,1262,23435,2211.8
+Tea,Haryana,Whole Year,4335,24127,4590.07
+Tea,Uttar Pradesh,Rabi,1146,41269,2778.52
+Rice,Tamil Nadu,Summer,4789,33942,7557.7
+Jute,West Bengal,Rabi,3152,41323,3683.76
+Tea,Haryana,Whole Year,4466,48363,3461.46
+Maize,Punjab,Summer,4534,17143,11244.34
+Tea,Tamil Nadu,Rabi,4406,25868,7211.25
+Maize,Haryana,Whole Year,1096,11926,2641.8
+Rice,Haryana,Whole Year,3118,26061,4803.24
+Jute,Maharashtra,Whole Year,584,49068,1563.1
+Jute,Tamil Nadu,Summer,4919,41956,10196.94
+Sugarcane,Tamil Nadu,Rabi,1567,3023,2985.89
+Jute,Maharashtra,Kharif,4493,15643,3844.66
+Rice,Punjab,Whole Year,1689,39682,4254.94
+Sugarcane,Maharashtra,Whole Year,867,9250,2190.28
+Wheat,Maharashtra,Summer,255,41492,924.25
+Sugarcane,Andhra Pradesh,Summer,2658,32145,2673.62
+Coffee,Andhra Pradesh,Rabi,4095,19566,4983.15
+Cotton,Karnataka,Summer,2482,12718,2133.0
+Rice,Haryana,Whole Year,3198,29374,2139.14
+Wheat,Tamil Nadu,Whole Year,2492,5829,4281.13
+Rice,Maharashtra,Summer,4179,8462,7131.03
+Rice,Punjab,Summer,512,46402,1310.09
+Jute,Maharashtra,Whole Year,3752,9928,3612.65
+Maize,Karnataka,Summer,474,48353,1344.08
+Jute,Maharashtra,Rabi,3250,41634,4502.92
+Rice,Tamil Nadu,Kharif,3403,16056,3082.79
+Cotton,Punjab,Rabi,2662,31934,1687.52
+Maize,Tamil Nadu,Rabi,1448,23852,3106.42
+Maize,Andhra Pradesh,Kharif,762,25721,2081.84
+Coffee,Andhra Pradesh,Kharif,4278,47532,5701.18
+Sugarcane,Karnataka,Summer,2029,44130,1656.49
+Jute,Maharashtra,Summer,4239,26796,2608.61
+Jute,West Bengal,Summer,4167,43545,5846.45
+Tea,West Bengal,Kharif,1335,31831,1871.22
+Tea,Karnataka,Whole Year,4054,35789,3144.61
+Coffee,Andhra Pradesh,Whole Year,2491,12599,6023.14
+Wheat,West Bengal,Rabi,2920,4729,4952.53
+Rice,West Bengal,Rabi,3496,28868,3402.69
+Jute,Karnataka,Rabi,909,35703,1829.09
+Sugarcane,Punjab,Summer,507,45336,1477.05
+Maize,Maharashtra,Whole Year,1991,49656,3331.94
+Cotton,Uttar Pradesh,Rabi,3091,7170,2211.41
+Jute,Haryana,Summer,3837,34346,5194.73
+Cotton,Maharashtra,Kharif,1934,45268,4840.44
+Sugarcane,West Bengal,Rabi,3801,41299,8877.05
+Rice,Maharashtra,Summer,1041,23778,1526.49
+Sugarcane,Punjab,Kharif,2751,6940,1864.91
+Wheat,Punjab,Whole Year,4028,28311,4891.23
+Rice,Uttar Pradesh,Rabi,2665,45045,3850.87
+Cotton,West Bengal,Kharif,2613,33675,5374.02
+Jute,Haryana,Summer,458,42358,1551.91
+Coffee,Uttar Pradesh,Kharif,3381,6828,3152.63
+Tea,Haryana,Summer,517,32322,885.4
+Maize,Punjab,Kharif,3062,2773,3841.01
+Cotton,West Bengal,Kharif,4481,12713,3071.59
+Coffee,Maharashtra,Kharif,1565,18240,1250.96
+Maize,Uttar Pradesh,Rabi,923,16531,2127.04
+Tea,Punjab,Rabi,4580,19178,3078.81
+Jute,Maharashtra,Whole Year,4029,33995,9916.24
+Cotton,Punjab,Whole Year,2215,35379,5655.6
+Rice,Maharashtra,Rabi,3490,5915,7208.99
+Cotton,Andhra Pradesh,Whole Year,585,11477,728.78
+Coffee,Haryana,Summer,656,13288,1637.27
+Coffee,Andhra Pradesh,Rabi,2588,12648,6559.86
+Sugarcane,Karnataka,Kharif,1217,18753,1415.54
+Wheat,Tamil Nadu,Kharif,3265,39439,6464.0
+Jute,Punjab,Whole Year,3194,7103,2684.06
+Wheat,Maharashtra,Kharif,3178,45736,6674.03
+Sugarcane,Andhra Pradesh,Rabi,1983,36811,2038.23
+Sugarcane,Andhra Pradesh,Kharif,2371,9269,4349.41
+Maize,Uttar Pradesh,Rabi,3909,36807,8813.99
+Maize,Andhra Pradesh,Whole Year,3970,47521,8693.8
+Sugarcane,Punjab,Whole Year,1735,40327,1453.22
+Tea,Maharashtra,Rabi,2739,25733,1698.22
+Rice,West Bengal,Rabi,744,19984,1543.55
+Maize,Tamil Nadu,Kharif,4207,20160,5031.61
+Tea,Haryana,Summer,835,6561,1528.67
+Wheat,Haryana,Kharif,2314,35803,3127.16
+Wheat,Punjab,Rabi,2098,46131,4710.62
+Cotton,Tamil Nadu,Rabi,2700,20666,3230.55
+Tea,Uttar Pradesh,Whole Year,1389,49741,1452.74
+Tea,Tamil Nadu,Kharif,2715,39118,4386.69
+Rice,Maharashtra,Summer,3004,5149,1806.77
+Wheat,Karnataka,Summer,3148,36296,4475.6
+Cotton,Karnataka,Whole Year,2251,14343,2451.19
+Sugarcane,Haryana,Kharif,4213,11460,10247.41
+Rice,Maharashtra,Summer,3368,9890,2697.85
+Wheat,Haryana,Kharif,1488,3460,1988.41
+Coffee,Andhra Pradesh,Rabi,1899,45333,1875.69
+Cotton,Andhra Pradesh,Rabi,4146,3466,9175.62
+Coffee,Haryana,Rabi,534,41682,1698.17
+Cotton,West Bengal,Kharif,2305,47057,5200.84
+Wheat,Andhra Pradesh,Rabi,1188,23695,1853.43
+Sugarcane,Punjab,Whole Year,4317,38857,6487.49
+Rice,West Bengal,Rabi,2351,20972,1417.87
+Sugarcane,Punjab,Kharif,377,11384,530.61
+Rice,West Bengal,Kharif,733,32980,2079.26
+Maize,Maharashtra,Summer,2199,34343,5391.5
+Cotton,Maharashtra,Whole Year,365,31176,770.22
+Rice,Andhra Pradesh,Rabi,522,18171,975.47
+Tea,Uttar Pradesh,Summer,667,19757,589.84
+Coffee,Karnataka,Kharif,4707,6923,9623.2
+Tea,Maharashtra,Rabi,1113,6970,2278.93
+Tea,Punjab,Rabi,1109,36951,1901.77
+Coffee,Haryana,Kharif,4827,42944,10357.19
+Wheat,Punjab,Kharif,1477,8406,2791.15
+Tea,Tamil Nadu,Rabi,408,1859,494.57
+Maize,Andhra Pradesh,Rabi,2484,49126,2183.16
+Coffee,West Bengal,Summer,2167,48562,2296.56
+Wheat,Punjab,Whole Year,4059,32269,9983.47
+Wheat,Karnataka,Summer,1223,26472,1844.24
+Sugarcane,Punjab,Rabi,2216,34401,3671.06
+Sugarcane,Karnataka,Kharif,1042,16822,2076.2
+Jute,Karnataka,Summer,3580,49445,2554.77
+Tea,Andhra Pradesh,Kharif,701,3598,873.49
+Rice,Karnataka,Summer,3475,29367,7044.35
+Wheat,West Bengal,Whole Year,1898,31903,4820.62
+Wheat,Uttar Pradesh,Whole Year,3467,33652,4339.78
+Jute,Tamil Nadu,Summer,880,34613,807.42
+Jute,West Bengal,Kharif,919,30182,2170.2
+Jute,Punjab,Rabi,2408,8144,4239.25
+Coffee,Andhra Pradesh,Rabi,4041,45663,3648.87
+Coffee,Uttar Pradesh,Whole Year,3661,4495,6317.53
+Wheat,West Bengal,Rabi,1718,42355,4470.27
+Maize,Andhra Pradesh,Rabi,4475,8196,4959.5
+Rice,Tamil Nadu,Summer,2331,2310,3623.16
+Rice,Maharashtra,Summer,3600,32582,6225.03
+Rice,Tamil Nadu,Rabi,995,12476,2006.95
+Jute,Andhra Pradesh,Kharif,361,9811,558.63
+Cotton,Tamil Nadu,Summer,2371,40794,6302.79
+Rice,Karnataka,Summer,760,10575,692.46
+Jute,Punjab,Kharif,301,23931,732.3
+Coffee,West Bengal,Summer,4108,31719,6878.44
+Maize,Andhra Pradesh,Kharif,1527,11658,1644.67
+Rice,Tamil Nadu,Kharif,3275,38651,6721.28
+Maize,Tamil Nadu,Whole Year,4174,6779,6214.33
+Maize,Punjab,Kharif,4097,41198,7567.21
+Rice,Karnataka,Whole Year,662,33097,791.9
+Rice,Maharashtra,Whole Year,554,9091,1435.03
+Maize,Maharashtra,Kharif,1318,16048,850.31
+Rice,Tamil Nadu,Summer,960,28897,986.85
+Wheat,Maharashtra,Kharif,1387,7149,2751.1
+Coffee,Karnataka,Summer,3732,15763,3339.56
+Maize,West Bengal,Summer,2610,41386,3526.13
+Jute,Punjab,Rabi,1983,10039,4123.24
+Sugarcane,Punjab,Summer,3908,34978,5005.34
+Coffee,Maharashtra,Rabi,2846,29329,1935.36
+Wheat,Haryana,Summer,3742,32502,2291.88
+Jute,Tamil Nadu,Kharif,3271,40714,6241.82
+Coffee,Haryana,Rabi,2669,2213,4634.44
+Cotton,Punjab,Whole Year,625,28871,913.08
+Sugarcane,Andhra Pradesh,Rabi,2213,42181,3719.97
+Rice,Maharashtra,Kharif,893,1313,1071.96
+Tea,Andhra Pradesh,Rabi,2493,11121,4585.47
+Wheat,Andhra Pradesh,Rabi,1549,44179,2746.78
+Wheat,Tamil Nadu,Summer,3523,10397,8898.75
+Maize,Maharashtra,Rabi,3315,46143,3585.41
+Rice,Andhra Pradesh,Kharif,3591,39699,8199.0
+Sugarcane,Punjab,Rabi,994,20441,1780.59
+Cotton,West Bengal,Kharif,3229,6202,2969.94
+Jute,Andhra Pradesh,Whole Year,3404,29874,7593.51
+Tea,West Bengal,Kharif,3953,6645,8290.54
+Wheat,Punjab,Whole Year,1798,38079,4147.79
+Cotton,Karnataka,Whole Year,2401,7587,2925.35
+Cotton,Uttar Pradesh,Kharif,2721,16874,3519.62
+Sugarcane,Andhra Pradesh,Rabi,1589,30655,2683.26
+Coffee,Maharashtra,Whole Year,1073,25602,997.49
+Wheat,Karnataka,Kharif,2364,39051,4656.53
+Maize,Andhra Pradesh,Summer,756,44702,1730.29
+Jute,Andhra Pradesh,Summer,2077,23609,3771.95
+Cotton,Maharashtra,Whole Year,307,33783,833.69
+Rice,West Bengal,Summer,2058,24333,2307.29
+Maize,Maharashtra,Summer,4207,21184,3180.34
+Rice,Karnataka,Summer,149,36037,717.59
+Maize,Karnataka,Rabi,3445,6529,8150.35
+Jute,West Bengal,Summer,4021,13898,3961.37
+Sugarcane,Karnataka,Rabi,4261,44767,5878.57
+Cotton,Karnataka,Kharif,353,48452,1356.83
+Jute,Tamil Nadu,Rabi,336,2915,578.04
+Rice,Uttar Pradesh,Rabi,4446,17329,6172.88
+Jute,Karnataka,Whole Year,3325,2639,6044.59
+Jute,Tamil Nadu,Whole Year,4033,49615,7702.95
+Cotton,Uttar Pradesh,Whole Year,4422,36554,6596.79
+Maize,Maharashtra,Kharif,4458,8112,4778.04
+Tea,Punjab,Kharif,2925,38776,7301.73
+Wheat,Maharashtra,Rabi,3288,1816,2129.65
+Coffee,West Bengal,Kharif,3091,36027,3321.89
+Jute,Punjab,Kharif,2580,37879,3180.13
+Tea,West Bengal,Kharif,509,45642,1117.36
+Coffee,Maharashtra,Summer,4439,25021,4227.75
+Coffee,Karnataka,Rabi,3550,18806,2620.44
+Coffee,Haryana,Kharif,1099,44888,1041.23
+Sugarcane,Andhra Pradesh,Rabi,4495,22410,2564.59
+Maize,Andhra Pradesh,Whole Year,816,28394,1847.2
+Maize,Uttar Pradesh,Rabi,1826,47903,3300.29
+Cotton,Tamil Nadu,Rabi,601,3204,636.23
+Tea,West Bengal,Rabi,818,17900,1821.91
+Jute,Punjab,Summer,4899,19336,10012.73
+Sugarcane,West Bengal,Summer,478,17807,1243.43
+Sugarcane,Punjab,Rabi,4555,33100,6778.13
+Coffee,Maharashtra,Whole Year,2520,22514,4501.12
+Jute,Karnataka,Whole Year,2634,37535,6475.99
+Wheat,Tamil Nadu,Whole Year,1584,11694,2610.78
+Wheat,Haryana,Rabi,2355,46712,4905.03
+Maize,Tamil Nadu,Rabi,4535,26235,8680.53
+Cotton,Maharashtra,Whole Year,4941,28603,5412.92
+Maize,Punjab,Summer,1582,10037,3004.15
+Maize,Uttar Pradesh,Summer,800,16486,1977.54
+Coffee,Uttar Pradesh,Summer,1324,7972,1705.77
+Jute,Haryana,Whole Year,3824,49045,2802.79
+Maize,Maharashtra,Whole Year,726,36889,848.09
+Sugarcane,Karnataka,Kharif,4835,47978,5360.17
+Rice,Maharashtra,Whole Year,4378,32972,10930.55
+Tea,Tamil Nadu,Kharif,4902,13308,8440.91
+Maize,Punjab,Rabi,4254,42059,7689.94
+Tea,Andhra Pradesh,Rabi,4732,44100,9729.62
+Tea,Karnataka,Kharif,4515,13787,3011.35
+Tea,Punjab,Kharif,2355,33939,5071.31
+Rice,West Bengal,Rabi,3735,8374,8870.42
+Cotton,Andhra Pradesh,Summer,984,23720,1073.15
+Coffee,Andhra Pradesh,Kharif,2496,42754,3185.99
+Wheat,Maharashtra,Whole Year,1658,34697,3785.23
+Jute,Tamil Nadu,Summer,4663,18698,11037.82
+Jute,Tamil Nadu,Rabi,3739,8812,3774.11
+Maize,West Bengal,Whole Year,4004,13412,3275.18
+Tea,Punjab,Summer,2259,47541,3146.35
+Sugarcane,Karnataka,Whole Year,4425,8804,3430.43
+Maize,Andhra Pradesh,Summer,3927,40964,5129.3
+Tea,Karnataka,Kharif,3910,31315,8490.56
+Sugarcane,Andhra Pradesh,Rabi,4337,40671,4497.7
+Rice,Uttar Pradesh,Summer,449,36163,1071.93
+Jute,Tamil Nadu,Kharif,1469,8715,3571.23
+Jute,Uttar Pradesh,Whole Year,3665,43603,5831.14
+Maize,Andhra Pradesh,Whole Year,452,7018,1062.81
+Maize,Haryana,Summer,289,41198,969.01
+Maize,Haryana,Whole Year,2669,29577,6698.61
+Wheat,Haryana,Rabi,1622,47321,4488.09
+Tea,Punjab,Whole Year,274,42940,1105.8
+Rice,Karnataka,Rabi,3614,13107,7456.24
+Tea,Uttar Pradesh,Kharif,3992,13273,6365.8
+Rice,Karnataka,Whole Year,533,20436,742.43
+Wheat,Andhra Pradesh,Whole Year,2740,47682,2894.91
+Tea,Andhra Pradesh,Summer,4627,22808,6567.33
+Tea,Tamil Nadu,Whole Year,279,44681,622.35
+Coffee,Haryana,Kharif,1616,3749,3430.15
+Rice,Haryana,Kharif,4430,3286,6074.73
+Cotton,Uttar Pradesh,Whole Year,1834,35060,4789.06
+Cotton,Karnataka,Whole Year,1206,29593,3082.4
+Wheat,Punjab,Kharif,710,38108,2077.57
+Tea,West Bengal,Whole Year,156,25243,443.84
+Sugarcane,Tamil Nadu,Kharif,282,9719,307.82
+Wheat,Andhra Pradesh,Summer,1055,21951,2709.04
+Tea,Punjab,Whole Year,4069,29891,3714.7
+Wheat,Tamil Nadu,Rabi,3126,33189,4342.75
+Cotton,West Bengal,Kharif,2390,49315,2886.82
+Rice,Tamil Nadu,Whole Year,2510,5510,3956.08
+Rice,Karnataka,Kharif,308,29677,563.36
+Jute,Haryana,Kharif,2391,7086,3641.46
+Rice,Maharashtra,Kharif,433,4392,807.24
+Tea,Andhra Pradesh,Whole Year,1526,37394,3216.98
+Wheat,Karnataka,Rabi,865,37133,2422.89
+Sugarcane,Tamil Nadu,Whole Year,2751,36358,2295.77
+Sugarcane,Andhra Pradesh,Kharif,4062,15326,8303.41
+Jute,Uttar Pradesh,Rabi,1118,44330,3150.13
+Jute,Haryana,Rabi,143,18396,386.57
+Sugarcane,Uttar Pradesh,Kharif,385,26369,513.94
+Tea,Karnataka,Whole Year,839,4897,2092.17
+Rice,Andhra Pradesh,Summer,791,11771,927.78
+Jute,Karnataka,Whole Year,2640,27443,3668.64
+Sugarcane,Uttar Pradesh,Rabi,3817,30139,2868.67
+Sugarcane,Punjab,Kharif,3404,17090,5090.23
+Rice,West Bengal,Summer,2337,10276,3715.25
+Tea,Andhra Pradesh,Rabi,1018,11782,1229.24
+Rice,Maharashtra,Rabi,2920,23703,5075.12
+Coffee,Uttar Pradesh,Kharif,3160,17906,2481.05
+Rice,Maharashtra,Summer,2202,35662,4090.01
+Wheat,Maharashtra,Summer,2465,49834,2943.99
+Cotton,West Bengal,Whole Year,162,37125,588.07
+Rice,Andhra Pradesh,Kharif,1406,17272,3272.14
+Coffee,Haryana,Rabi,4289,23139,3838.56
+Rice,Punjab,Rabi,4679,19679,6677.87
+Maize,Karnataka,Rabi,2991,20610,3951.03
+Tea,Uttar Pradesh,Rabi,197,38389,704.86
+Tea,Uttar Pradesh,Summer,4534,27327,4877.72
+Jute,Andhra Pradesh,Rabi,1391,47401,3163.72
+Cotton,Tamil Nadu,Summer,3960,15448,2670.07
+Cotton,Karnataka,Whole Year,758,25404,866.41
+Maize,Karnataka,Kharif,4791,16906,10736.13
+Tea,Maharashtra,Rabi,165,24726,456.04
+Tea,Tamil Nadu,Whole Year,344,1048,742.06
+Cotton,West Bengal,Summer,3190,24676,2166.73
+Wheat,West Bengal,Summer,2204,20791,2109.12
+Jute,Punjab,Kharif,4911,24238,5857.07
+Maize,West Bengal,Whole Year,4017,17399,3936.44
+Jute,West Bengal,Whole Year,2980,9812,6981.58
+Rice,Karnataka,Rabi,1567,20900,1611.59
+Tea,Haryana,Whole Year,4385,37142,10561.65
+Rice,Punjab,Rabi,1886,11173,2406.95
+Coffee,Punjab,Kharif,4711,15533,7914.07
+Sugarcane,Uttar Pradesh,Summer,4773,16045,8070.9
+Cotton,Punjab,Summer,3710,44090,2549.56
+Sugarcane,Punjab,Whole Year,4288,9357,2368.16
+Wheat,Karnataka,Rabi,3801,12844,5322.16
+Cotton,Andhra Pradesh,Rabi,2664,33608,6872.18
+Maize,Uttar Pradesh,Kharif,583,27901,651.13
+Cotton,Andhra Pradesh,Kharif,4197,21822,7811.87
+Rice,West Bengal,Whole Year,3570,27396,7504.45
+Rice,Maharashtra,Kharif,2488,25573,4485.28
+Rice,Karnataka,Summer,4595,28690,4905.24
+Wheat,Punjab,Rabi,4268,48412,7175.98
+Sugarcane,Uttar Pradesh,Kharif,1579,1270,2380.42
+Wheat,West Bengal,Rabi,496,2595,1042.9
+Wheat,Maharashtra,Kharif,320,23394,991.68
+Jute,Tamil Nadu,Summer,1633,26409,2559.32
+Jute,Uttar Pradesh,Whole Year,3261,47708,6288.59
+Tea,Maharashtra,Whole Year,1583,45798,2592.58
+Cotton,Tamil Nadu,Kharif,152,7381,424.46
+Cotton,Haryana,Kharif,3600,1950,5389.24
+Coffee,Uttar Pradesh,Whole Year,247,34761,834.6
+Tea,Tamil Nadu,Summer,4285,17960,7918.41
+Coffee,Andhra Pradesh,Kharif,728,22314,1262.08
+Coffee,Haryana,Rabi,1105,13770,1493.95
+Wheat,Haryana,Kharif,2428,25538,1646.31
+Sugarcane,West Bengal,Kharif,2007,39085,1902.56
+Cotton,Punjab,Rabi,2175,26322,2406.44
+Tea,Tamil Nadu,Summer,451,6515,489.67
+Cotton,Uttar Pradesh,Kharif,694,19941,1319.94
+Tea,Andhra Pradesh,Summer,2022,36208,2612.78
+Tea,Haryana,Rabi,976,10783,1323.48
+Coffee,Andhra Pradesh,Rabi,256,39399,809.2
+Cotton,Uttar Pradesh,Summer,3250,21030,4482.9
+Rice,Karnataka,Whole Year,108,38900,581.64
+Cotton,Punjab,Rabi,1467,26198,3643.11
+Rice,Punjab,Rabi,1496,4491,2403.24
+Sugarcane,Karnataka,Whole Year,4839,32454,9853.76
+Wheat,Maharashtra,Summer,2427,39375,1943.95
+Rice,Andhra Pradesh,Summer,1987,31146,3340.89
+Cotton,Karnataka,Summer,3498,37455,9033.73
+Sugarcane,Haryana,Kharif,3860,8302,2112.23
+Cotton,Punjab,Rabi,1367,35659,3092.13
+Wheat,West Bengal,Whole Year,2376,4928,5299.3
+Wheat,West Bengal,Summer,2528,35266,3005.01
+Sugarcane,Karnataka,Kharif,2850,32347,3460.85
+Sugarcane,Karnataka,Whole Year,406,3833,322.39
+Cotton,Punjab,Kharif,4048,11761,6550.19
+Tea,West Bengal,Summer,3915,31053,9568.25
+Tea,Uttar Pradesh,Rabi,4703,22626,3533.54
+Sugarcane,Tamil Nadu,Kharif,2548,7867,5138.63
+Maize,Karnataka,Rabi,3139,13715,2176.75
+Jute,Andhra Pradesh,Summer,1561,28634,2328.2
+Sugarcane,Karnataka,Rabi,2968,12662,4859.01
