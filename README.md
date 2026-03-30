@@ -53,3 +53,5 @@ The application expects a CSV with the following columns:
 
 ## 📝 License
 This project is for educational purposes. Feel free to use and modify!
+
+Try the website here:[https://nx2ubzytwxsdzrh7wv3spj.streamlit.app/]
